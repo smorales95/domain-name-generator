@@ -3,7 +3,7 @@
 let pronoun = ['the', 'our'];
 let adj = ['great', 'big'];
 let noun = ['jogger', 'racoon'];
-let dom =['.net','.us','.org','com'];
+let dom =['.net','.us','.org','.com'];
 
 
 
